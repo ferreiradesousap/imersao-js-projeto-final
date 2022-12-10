@@ -1,0 +1,22 @@
+{
+  "name": "imersao-js-projeto-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferreiradesousap/imersao-js-projeto-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferreiradesousap/imersao-js-projeto-final/issues"
+  },
+  "homepage": "https://github.com/ferreiradesousap/imersao-js-projeto-final#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
