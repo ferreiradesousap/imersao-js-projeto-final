@@ -29,8 +29,9 @@ class ValidadorPessoa {
         }
     }
 
-    static validarUsuario(usuario) {
-        if (!(usuario instanceof Usuario)) {
+    static validarUsuario(user) {
+        console.log(user);
+        if (!(user instanceof Usuario)) {
             throw new Error('Usuário inválido.');
         }
     }

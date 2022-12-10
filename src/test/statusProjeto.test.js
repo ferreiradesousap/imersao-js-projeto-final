@@ -7,7 +7,7 @@ describe("StatusProjeto: Testes das constantes", () => {
     })
 
     test("Status: Projeto patrocinado", () => {
-        expect(StatusProjeto.PATROCINADO).toEqual("Projeto patrocinado");
+        expect(StatusProjeto.PATROCINADO).toEqual("Patrocínio recebido");
     })
 
     test("Status: Em andamento", () => {

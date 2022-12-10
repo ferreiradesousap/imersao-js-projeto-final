@@ -1,5 +1,5 @@
 const Projeto = require("../model/projeto");
-const Usuario = require("../model/usuario");;
+const Usuario = require("../model/usuario");
 const TipoPessoa = require("../model/tipoPessoa");
 const Patrocinador = require("../model/patrocinador");
 const StatusProjeto = require("../model/statusProjeto");

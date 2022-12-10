@@ -7,7 +7,7 @@ describe("Criar usuário ", () => {
 
     test("Criar usuario: Caso de sucesso", () => {
         usuario = new Usuario();
-        expect(usuario.criarUsuario('user@teste.com.br', '123', '123')).toBe('Usuário cadastrado com sucesso.');
+        expect(usuario.criarUsuario('user@teste.com.br', '123', '123')).toBeInstanceOf(Usuario);
     })
 
     test("Fazer login: Caso de sucesso", () => {

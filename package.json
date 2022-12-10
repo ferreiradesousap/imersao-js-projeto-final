@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ferreiradesousap/imersao-js-projeto-final#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
