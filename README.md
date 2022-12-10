@@ -16,6 +16,17 @@
 
 </br><hr>
 
+## Melhorias futuras 📌
+
+### Como melhorias futuras para o sistemas, foram pensados os seguintes tópicos:
+
+- Realizar testes de todo o fluxo do sistema, para garantia de qualidade;
+- Implementar tarefas de projetos que possam ser atribuidas aos voluntários;
+- Aumentar validações e consequentemente diminuir riscos de erro por parte do usuário;
+- Implementar interface gráfica;
+  
+</br><hr>
+
 ## Como executar o projeto 🛠️
 
 </br>
